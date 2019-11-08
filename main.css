@@ -16,7 +16,7 @@ body {
     min-width: 1024px;
     height: 768px;
     position: relative;
-    background: url("./assets/images/bg.jpg");
+    background: url("./bg.jpg");
     background-size: 100% 100%;
 }
 
