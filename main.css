@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+#game {
+    border: 1px solid #333;
+    min-width: 1024px;
+    height: 768px;
+    position: relative;
+    background: url("./assets/images/bg.jpg");
+    background-size: 100% 100%;
+}
+
+.game-object {
+    position: absolute;
+}
